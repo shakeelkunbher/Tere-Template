@@ -1,0 +1,277 @@
+@media only screen and (max-width: 767px) {
+  .nevbar-image {
+    width: 93px;
+  }
+  .nevlinks {
+    margin-left: 0px !important;
+  }
+
+  .first-row {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .text-1 {
+    /* background-color: aqua; */
+    margin-top: 50px;
+    font-size: 34.89px;
+    line-height: 1.2;
+    /* margin-left: 20px; */
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  .buttons {
+    margin-left: -25px;
+  }
+
+  .playstore {
+    width: 151px;
+    margin-left: 25px;
+  }
+
+  .first-row-p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 15px !important;
+    text-align: center;
+    line-height: 18px;
+  }
+
+  .f1 {
+    display: block !important;
+    height: 235px !important;
+    width: 340px;
+  }
+
+  .f1 > label {
+    width: 100% !important;
+    /* background-color: red !important; */
+    margin: 0px !important;
+    margin-top: 10px !important;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .f1 > input {
+    width: 100% !important;
+    display: flex;
+    justify-content: center !important;
+    margin-top: 30px !important ;
+  }
+
+  .f1 > button {
+    width: 100% !important;
+    margin-left: 0px !important;
+    margin-top: 20px !important;
+  }
+
+  .text-2 > p {
+    font-size: 40px;
+  }
+
+  .howteretworks {
+    margin-top: -50px;
+  }
+}
+
+@media only screen and (max-width: 1049px) {
+  .nevlinks {
+    margin-left: 300px;
+  }
+}
+
+@media only screen and (max-width: 1115px) {
+  .nevlinks {
+    margin-left: 370px;
+  }
+  .text-1 {
+    display: flex;
+    text-align: center;
+    font-size: 50px;
+    line-height: 53px;
+  }
+
+  .first-row-p {
+    font-size: 19.5px;
+    /* padding-left: 44px; */
+    display: flex;
+    text-align: center !important;
+    justify-content: center;
+  }
+  .buttons {
+    margin-left: -30px;
+  }
+  .playstore {
+    width: 200px !important;
+    margin-left: 30px;
+  }
+
+  .mbl-div {
+    display: none;
+  }
+
+  .mblsize-container {
+    display: block !important;
+  }
+
+  .mblsize-cercalimg {
+    width: 96%;
+  }
+
+  .mblsize-cercalimg > p {
+    font-family: gilroy;
+    font-weight: 800;
+    font-size: 34.11px;
+    line-height: 37.02px;
+    color: #75bf7a;
+    margin-top: 10px;
+    margin-left: -35px;
+  }
+
+  .mblsize-cercalimg > img {
+    width: 55px;
+    height: 55px;
+    margin-top: 0px;
+  }
+
+  .mbltext {
+    /* background-color: #75BF7A; */
+  }
+
+  .mbltext > p {
+    font-family: gilroy;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #9e9da2;
+  }
+
+  .mbltext > label {
+    font-family: gilroy;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 55.55px;
+    display: flex;
+    justify-content: center;
+    color: #000000;
+  }
+
+
+
+
+
+  
+}
+
+@media only screen and (max-width: 991px) {
+  .text-1 {
+    display: flex;
+    text-align: center;
+    font-size: 37px;
+    line-height: 40px;
+  }
+
+  .first-row-p {
+    display: flex;
+    text-align: center;
+    font-size: 16.5px;
+    margin-left: -12px;
+  }
+}
+
+@media only screen and (max-width: 1078px) {
+  .nevlinks {
+    margin-left: 300px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .text-1 {
+    display: flex;
+    text-align: center;
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .first-row-p {
+    display: flex;
+    text-align: center;
+    font-size: 12.5px;
+    margin-left: -12px;
+  }
+
+  .f1 > label {
+    width: 100%;
+    /* background-color: red; */
+    margin: 0px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: start;
+    text-align: left;
+  }
+
+  .text-2 > label {
+    display: none;
+  }
+
+  .text-2 > p {
+    font-size: 24px;
+  }
+
+  .label-1 {
+    display: block !important;
+    color: #9e9da2;
+    font-family: gilroy;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+    /* background-color: aqua; */
+    margin-top: 25px;
+  }
+}
+
+@media only screen and (max-width: 1298px) {
+  .ftext {
+    font-size: 15px !important;
+    width: 200px !important;
+  }
+
+  .f1 > button {
+    margin-left: 0px;
+    font-size: 15px;
+  }
+
+  .f1 > input {
+    margin-left: 30px;
+  }
+}
+
+@media only screen and (max-width: 884px) {
+  .f1 > button {
+    /* margin-left: 0px; */
+    font-size: 12px !important;
+    width: 30px;
+  }
+
+  .ftext {
+    font-size: 15px !important;
+    width: 250px !important;
+  }
+
+  .f1 > input {
+    margin-left: 0px !important;
+    display: flex !important  ;
+    justify-content: center !important;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .text-2 > label {
+    /* width: 100% !important; */
+    height: auto !important;
+    font-size: 15px !important;
+  }
+}
